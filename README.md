@@ -1,2 +1,2 @@
 # hello_world
-testiramo github
+testiramo github (ovo je editor)
